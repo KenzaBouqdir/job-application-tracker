@@ -157,8 +157,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👤 Author
 
 **Kenza Bouqdir**
-- GitHub: [@yourusername](https://github.com/yourusername)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/yourprofile)
+- GitHub: [@KenzaBouqdir](https://github.com/kenzabouqdir)
+- LinkedIn: [Kenza Bouqdir](https://linkedin.com/in/kenzabouqdir)
 
 ## 🙏 Acknowledgments
 
