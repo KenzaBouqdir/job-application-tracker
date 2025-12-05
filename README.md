@@ -74,7 +74,7 @@ The tool generates four key visualizations:
 ### Usage
 
 ```bash
-python job_tracker_visual.py
+python job_tracker_tracker.py
 ```
 
 On first run:
@@ -94,7 +94,7 @@ The tool creates an `output/` directory containing:
 
 ## 🔧 Configuration
 
-You can modify the analysis timeframe by changing the `months` parameter in `job_tracker_visual.py`:
+You can modify the analysis timeframe by changing the `months` parameter in `job_tracker_tracker.py`:
 
 ```python
 tracker.analyze_applications(months=6)  # Change to 3, 12, etc.
